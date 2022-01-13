@@ -1,37 +1,19 @@
 {
-
-
-
-  "name": "git-task",
-  "version": "1.0.0",
-  "description": "A boilerplate for the Git Basics course in Booost",
-  "main": "main.js",
-
-
   "name": "git-basics-ooo",
   "version": "1.0.0",
   "description": "A boilerplate for the Git Basics course in Booost",
   "main": "index-ooo.js",
-
-
-
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-
-    "url": "git+https://gitlab.com/booost/boilerplates/git-basics-ooo.git"
-
+    "url": "git+https://gitlab.com/booost/boilerplates/git-task.git"
   },
   "author": "Association Booost",
   "license": "ISC",
   "bugs": {
-
-    "url": "https://gitlab.com/booost/boilerplates/git-basics-ooo/issues"
+    "url": "https://gitlab.com/booost/boilerplates/git-task/issues"
   },
-  "homepage": "https://gitlab.com/booost/boilerplates/git-basics-ooo#readme"
-
-  }
- 
+  "homepage": "https://gitlab.com/booost/boilerplates/git-task#readme"
+}
