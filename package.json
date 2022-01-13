@@ -1,19 +1,52 @@
 {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  "name": "git-task",
+  "version": "1.0.0",
+  "description": "A boilerplate for the Git Basics course in Booost",
+  "main": "main.js",
+=======
+>>>>>>> master
   "name": "git-basics-ooo",
   "version": "1.0.0",
   "description": "A boilerplate for the Git Basics course in Booost",
   "main": "index-ooo.js",
+<<<<<<< HEAD
+=======
+>>>>>>> dev
+>>>>>>> master
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://gitlab.com/booost/boilerplates/git-basics-ooo.git"
+=======
+<<<<<<< HEAD
+    "url": "git+https://gitlab.com/booost/boilerplates/git-task.git"
+=======
+    "url": "git+https://gitlab.com/booost/boilerplates/git-basics-ooo.git"
+>>>>>>> dev
+>>>>>>> master
   },
   "author": "Association Booost",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://gitlab.com/booost/boilerplates/git-basics-ooo/issues"
   },
   "homepage": "https://gitlab.com/booost/boilerplates/git-basics-ooo#readme"
+=======
+<<<<<<< HEAD
+    "url": "https://gitlab.com/booost/boilerplates/git-task/issues"
+  },
+  "homepage": "https://gitlab.com/booost/boilerplates/git-task#readme"
+=======
+    "url": "https://gitlab.com/booost/boilerplates/git-basics-ooo/issues"
+  },
+  "homepage": "https://gitlab.com/booost/boilerplates/git-basics-ooo#readme"
+>>>>>>> dev
+>>>>>>> master
 }
